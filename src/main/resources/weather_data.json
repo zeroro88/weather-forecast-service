@@ -1,0 +1,67 @@
+{
+  "cities": {
+    "北京": {
+      "climate": "温带季风气候",
+      "seasons": {
+        "spring": {
+          "temp_range": "10-20",
+          "typical_weather": ["多风", "干燥", "沙尘"]
+        },
+        "summer": {
+          "temp_range": "25-35",
+          "typical_weather": ["闷热", "雷阵雨", "高温"]
+        },
+        "autumn": {
+          "temp_range": "15-25",
+          "typical_weather": ["凉爽", "干燥", "晴朗"]
+        },
+        "winter": {
+          "temp_range": "-5-5",
+          "typical_weather": ["寒冷", "干燥", "多风"]
+        }
+      }
+    },
+    "上海": {
+      "climate": "亚热带季风气候",
+      "seasons": {
+        "spring": {
+          "temp_range": "15-22",
+          "typical_weather": ["多雨", "潮湿", "温和"]
+        },
+        "summer": {
+          "temp_range": "25-35",
+          "typical_weather": ["高温", "潮湿", "台风"]
+        },
+        "autumn": {
+          "temp_range": "18-25",
+          "typical_weather": ["凉爽", "舒适", "多云"]
+        },
+        "winter": {
+          "temp_range": "2-10",
+          "typical_weather": ["湿冷", "阴雨", "寒潮"]
+        }
+      }
+    },
+    "广州": {
+      "climate": "热带季风气候",
+      "seasons": {
+        "spring": {
+          "temp_range": "18-25",
+          "typical_weather": ["温暖", "多雨", "潮湿"]
+        },
+        "summer": {
+          "temp_range": "28-35",
+          "typical_weather": ["炎热", "暴雨", "台风"]
+        },
+        "autumn": {
+          "temp_range": "20-28",
+          "typical_weather": ["温和", "少雨", "舒适"]
+        },
+        "winter": {
+          "temp_range": "10-18",
+          "typical_weather": ["温和", "干燥", "多云"]
+        }
+      }
+    }
+  }
+} 
