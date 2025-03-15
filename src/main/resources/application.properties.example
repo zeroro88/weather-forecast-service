@@ -1,0 +1,12 @@
+server.port=8080
+server.servlet.encoding.charset=UTF-8
+server.servlet.encoding.force=true
+server.tomcat.uri-encoding=UTF-8
+
+# 设置你的 API Key
+deepseek.api.key=your-api-key-here
+
+# 字符编码配置
+spring.http.encoding.charset=UTF-8
+spring.http.encoding.enabled=true
+spring.http.encoding.force=true 
